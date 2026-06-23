@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24T00:43:59+03:00">
+<yml_catalog date="2026-06-24T00:50:38+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
@@ -36,17 +36,6 @@
         <param name="brand">YVES ROCHER</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_931920" available="true">
-        <name>Спортмастер — Цены пополам! Скидки до 50%!</name>
-        <url>https://iatjw.com/g/p02b7mv7ul3d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzmbsE</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd">2026-07-31T23:59:00</param>
-        <param name="brand">Спортмастер</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_931771" available="true">
         <name>Love Republic — 15% на раздел эксклюзивно онлайн</name>
         <url>https://rthsu.com/g/14ce3m9h7t3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzjayd</url>
@@ -78,83 +67,6 @@
         <param name="discount">10%</param>
         <param name="dateEnd">2026-08-31T23:59:00</param>
         <param name="brand">Love Republic</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931757" available="true">
-        <name>rendez-vous.ru — Сезонная распродажа от 30 до 50%</name>
-        <url>https://bywiola.com/g/5ac82cqdir3d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziunX</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931753" available="true">
-        <name>SuperStep RU — СуперФест! Скидки до 50% на выделенный ассортимент</name>
-        <url>https://sgkaa.com/g/333gr4mtvp3d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziuUo</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd">2026-07-01T23:59:00</param>
-        <param name="brand">SuperStep RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931744" available="true">
-        <name>Спортмастер — 2=3, третий волан для бадминтона в подарок</name>
-        <url>https://iatjw.com/g/f52brwh3vt3d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziuKw</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-07-12T23:59:00</param>
-        <param name="brand">Спортмастер</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931743" available="true">
-        <name>Спортмастер — Большая игра в приложении</name>
-        <url>https://iatjw.com/g/6h262rnyti3d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziuKv</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-07-07T23:59:00</param>
-        <param name="brand">Спортмастер</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931742" available="true">
-        <name>Спортмастер — Товары для рыбалки со скидками</name>
-        <url>https://iatjw.com/g/plp51zksk33d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziaXr</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Спортмастер</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931741" available="true">
-        <name>Спортмастер — Вернем бонусами при покупке туристического инвентаря</name>
-        <url>https://iatjw.com/g/g2odf5k89i3d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziaXq</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-07-15T23:59:00</param>
-        <param name="brand">Спортмастер</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931740" available="true">
-        <name>Спортмастер — скидка до 20% на обувь для горного туризма</name>
-        <url>https://iatjw.com/g/emwgb3fq093d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrziaXp</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
-        <vendor>Спортмастер</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">20%</param>
-        <param name="dateEnd">2026-08-31T23:59:00</param>
-        <param name="brand">Спортмастер</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_931638" available="true">
@@ -256,28 +168,6 @@
         <param name="brand">AliExpress RU&amp;CIS</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_931064" available="true">
-        <name>rendez-vous.ru — скидки от 30%</name>
-        <url>https://bywiola.com/g/nn2o5vjqan3d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4f65</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd">2026-07-31T23:59:00</param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931058" available="true">
-        <name>Randewoo — Крем для рук в подарок!</name>
-        <url>https://bywiola.com/g/gv210jyxz03d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4enL</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_931056" available="true">
         <name>online.globus.ru — Бесплатная доставка от 3500 руб</name>
         <url>https://dorinebeaumont.com/g/5umhcfby5q3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ei3</url>
@@ -287,149 +177,6 @@
         <param name="discount">3 500 ₽</param>
         <param name="dateEnd">2026-09-15T23:59:00</param>
         <param name="brand">online.globus.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931055" available="true">
-        <name>Randewoo — Солнцезащитный крем в подарок!</name>
-        <url>https://bywiola.com/g/adpr19w5um3d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ei2</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931053" available="true">
-        <name>Randewoo — Лучшие летние ароматы 2026</name>
-        <url>https://bywiola.com/g/xo89eyby3s3d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ehz</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931052" available="true">
-        <name>Randewoo — Тени-стик для век в подарок!</name>
-        <url>https://bywiola.com/g/xh7lrpxqr63d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ehy</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_931051" available="true">
-        <name>Randewoo — Косметичка, карандаш для губ, маска или патчи в подарок!</name>
-        <url>https://bywiola.com/g/xlovcmqfhb3d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ehx</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930989" available="true">
-        <name>rendez-vous.ru — +10% при покупке 3 и более товаров</name>
-        <url>https://bywiola.com/g/gfys6bmr653d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4KTF</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930988" available="true">
-        <name>rendez-vous.ru — Сезонное предложение обуви -30% на новый ассортимент</name>
-        <url>https://bywiola.com/g/2g8hpiiva43d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4KTE</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930439" available="true">
-        <name>Петрович — В Клуб Друзей за рубль</name>
-        <url>https://dhwnh.com/g/xptdday8rc3d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gju</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930437" available="true">
-        <name>Петрович — КМ Атом Электроинструмент + Аккумулятор!</name>
-        <url>https://dhwnh.com/g/36a80p2b413d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gjs</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930436" available="true">
-        <name>Петрович — Вжух и закрутилось: выгодная цена на шуруповерт КМ АТОМ!</name>
-        <url>https://dhwnh.com/g/6ldhzff8la3d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gjr</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930435" available="true">
-        <name>Петрович — Выгодная цена на лампочки!</name>
-        <url>https://dhwnh.com/g/hrk05b2v463d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gjq</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd">2026-07-30T23:59:00</param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930434" available="true">
-        <name>Петрович — Двойная выгода: -10% сразу и 10% кэшбек на всю Электрику!</name>
-        <url>https://dhwnh.com/g/8szk83x7p03d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gfa</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">20%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930433" available="true">
-        <name>rendez-vous.ru — -25% на все!</name>
-        <url>https://bywiola.com/g/hfhyv4er1f3d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc7gWj</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">25%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_930206" available="true">
-        <name>Divan.ru — ИЗИ: Коллекция для подростков</name>
-        <url>https://yknhc.com/g/bvg0p8ztj43d2015cbd4bdf11f4fb4/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkc612Z</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/21/112669-8e439f9d2977ebbc.svg</picture>
-        <vendor>Divan.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Divan.ru</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_930007" available="true">
@@ -498,50 +245,6 @@
         <param name="brand">AliExpress RU&amp;CIS</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_929625" available="true">
-        <name>Divan.ru — −15% на матрас при покупке с кроватью!</name>
-        <url>https://yknhc.com/g/pu0hfc94l23d2015cbd4bdf11f4fb4/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkac1kH</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/21/112669-8e439f9d2977ebbc.svg</picture>
-        <vendor>Divan.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">15%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Divan.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_929624" available="true">
-        <name>Divan.ru — −15% на комод или тумбу при покупке со шкафом!</name>
-        <url>https://yknhc.com/g/6z4dne7nuw3d2015cbd4bdf11f4fb4/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkac1kG</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/21/112669-8e439f9d2977ebbc.svg</picture>
-        <vendor>Divan.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">15%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Divan.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_929557" available="true">
-        <name>ЛЭТУАЛЬ — Это не шутка и не сон... Это любимые товары по 67 рублей!</name>
-        <url>https://gndrz.com/g/l3hz6v18vi3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkZAimo</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">89%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_929295" available="true">
-        <name>Loccitane RU — До -50% на ассортимент в разделе «Скидки»</name>
-        <url>https://bednari.com/g/p2xneg12uw3d2015cbd4837df07f47/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkXeNpH</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/4462-eb974a0ca795e884.svg</picture>
-        <vendor>Loccitane RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">Loccitane RU</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_929027" available="true">
         <name>YVES ROCHER — Скидка 25% от 4000 руб</name>
         <url>https://cafxq.com/g/3f8qmrw8033d2015cbd4c188ef9305/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkWBjJo</url>
@@ -573,116 +276,6 @@
         <param name="discount">25%</param>
         <param name="dateEnd">2026-07-15T23:59:00</param>
         <param name="brand">YVES ROCHER</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_928737" available="true">
-        <name>ЛЭТУАЛЬ — Кешбэк 100% за покупку подарочного сертификата в магазинах ЛЭТУАЛЬ</name>
-        <url>https://gndrz.com/g/rcoy88tdrp3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkUiR99</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">99%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_928675" available="true">
-        <name>SuperStep RU — Бесплатная доставка при заказе от 10 000 рублей в Москве и Санкт Петербурге</name>
-        <url>https://sgkaa.com/g/n8xc7pl1g53d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkUi5Mg</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">SuperStep RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_927069" available="true">
-        <name>Мир кубиков RU — Каталог конструкторов и аксессуаров для детей и взрослых со скидкой!</name>
-        <url>https://yyczo.com/g/c8n0zusubk3d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytMJKJC</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_927068" available="true">
-        <name>Мир кубиков RU — Больше бонусов!</name>
-        <url>https://yyczo.com/g/jtk514hq2f3d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytMJKJB</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_927067" available="true">
-        <name>Мир кубиков RU — Каждую неделю новые подарки!</name>
-        <url>https://yyczo.com/g/r7hah34juz3d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytMJKJ9</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_925743" available="true">
-        <name>rendez-vous.ru — Летняя коллекция для нее</name>
-        <url>https://bywiola.com/g/1gqt0rx41y3d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytJJfAy</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_925407" available="true">
-        <name>afisha.yandex.ru — Стадионный тур 2026 с лучшими хитами Леонида Агутина со скидкой</name>
-        <url>https://bednari.com/g/3ge7ulv6fp3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytGrMDy</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">300 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_925406" available="true">
-        <name>afisha.yandex.ru — Скидка 10% на концерт «Баста – Guf» при покупке от 3 000 рублей</name>
-        <url>https://bednari.com/g/mj2jw5nmuw3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytGrMDx</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_925404" available="true">
-        <name>afisha.yandex.ru — -400 рублей на юбилейный концерт «Руки вверх!» при покупке от 3 000 рублей</name>
-        <url>https://bednari.com/g/zupbltr8ri3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytGrMDv</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">300 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_925403" available="true">
-        <name>afisha.yandex.ru — Билеты на концерт Вани Дмитриенко со скидкой 750 рублей</name>
-        <url>https://bednari.com/g/8hwjj9mit53d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqytGrMDu</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">750 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_919867" available="true">
@@ -718,17 +311,6 @@
         <param name="brand">Airo</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_919314" available="true">
-        <name>YVES ROCHER — Бесплатная доставка за заказ от 2990 р. + подарок к каждому заказу</name>
-        <url>https://cafxq.com/g/0h0bxrj30a3d2015cbd4c188ef9305/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymnGVRr</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/1667-50e340ecac199ec3.svg</picture>
-        <vendor>YVES ROCHER</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">YVES ROCHER</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_916747" available="true">
         <name>afisha.yandex.ru — Скидка 300 рублей для покупок от 3000 рублей</name>
         <url>https://bednari.com/g/aw5gia5ujt3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymgMYSV</url>
@@ -738,72 +320,6 @@
         <param name="discount"></param>
         <param name="dateEnd">2026-07-31T23:59:00</param>
         <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_916263" available="true">
-        <name>Мир кубиков RU — Новинки Brick Labs: тайные минифигурки и космические наборы!</name>
-        <url>https://yyczo.com/g/qhu4y0gyp73d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymestVL</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_916262" available="true">
-        <name>Мир кубиков RU — Фигурки Funko снова покоряют «Мир Кубиков»!</name>
-        <url>https://yyczo.com/g/ka405j6qwl3d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymestVK</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_916261" available="true">
-        <name>Мир кубиков RU — Конструкторы LEGO: Уникальные наборы для детей и взрослых уже на сайте!</name>
-        <url>https://yyczo.com/g/rfy2s5l1c03d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymestVJ</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_903549" available="true">
-        <name>Петрович — Распродажа! Снимаем цены — повышаем шанс на окончание ремонта!</name>
-        <url>https://dhwnh.com/g/5tgdjzc8k33d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyYiiVz7</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">93%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_903466" available="true">
-        <name>Randewoo — Акции по отдельным брендам или товарам</name>
-        <url>https://bywiola.com/g/6pjpzxr0023d2015cbd40dd11956d5/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyYii9tp</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/4/23/22484-276d0824abb5ce1b.svg</picture>
-        <vendor>Randewoo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Randewoo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_900315" available="true">
-        <name>rendez-vous.ru — Новая коллекция Maison David</name>
-        <url>https://bywiola.com/g/vdpz3slypi3d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyS2FPFE</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">rendez-vous.ru</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_898761" available="true">
@@ -914,50 +430,6 @@
         <param name="discount">1%</param>
         <param name="dateEnd">2026-06-30T00:00:00</param>
         <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_897902" available="true">
-        <name>ЛЭТУАЛЬ — Собери выгодный набор!</name>
-        <url>https://gndrz.com/g/bnukti25w73d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKUjDzT</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">15%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_897901" available="true">
-        <name>ЛЭТУАЛЬ — Подарок за покупку бренда ARTDECO</name>
-        <url>https://gndrz.com/g/hzet9pcpzt3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKUjDzS</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_897898" available="true">
-        <name>ЛЭТУАЛЬ — Подарок за покупку бренда MAKE UP FACTORY</name>
-        <url>https://gndrz.com/g/4dy6lmnhx33d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKUjDzP</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_897897" available="true">
-        <name>ЛЭТУАЛЬ — Подарок от RB RoseBaie PARIS</name>
-        <url>https://gndrz.com/g/dki6pt53au3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKUiuCL</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_897798" available="true">
@@ -1202,17 +674,6 @@
         <param name="brand">Netology</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_895318" available="true">
-        <name>Divan.ru — Быстрая доставка от Divan.ru!</name>
-        <url>https://yknhc.com/g/tdt1f8u66j3d2015cbd4bdf11f4fb4/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyD1gPGT</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/21/112669-8e439f9d2977ebbc.svg</picture>
-        <vendor>Divan.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Divan.ru</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_892082" available="true">
         <name>Мир кубиков RU — скидка 7%, но не более 2 000 руб. Действует только онлайн: на сайте или в мобильном приложении</name>
         <url>https://yyczo.com/g/06zf3q2ocb3d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4rqy6YZVdB</url>
@@ -1222,61 +683,6 @@
         <param name="discount">7%</param>
         <param name="dateEnd">2026-06-30T23:59:00</param>
         <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_881552" available="true">
-        <name>ЛЭТУАЛЬ — Скидка 10% на первые 3 покупки при оплате Яндекс Пэй</name>
-        <url>https://gndrz.com/g/l307fsuq6u3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqV1ChULp</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_881551" available="true">
-        <name>ЛЭТУАЛЬ — Подарок за покупку бренда INFLUENCE BEAUTY</name>
-        <url>https://gndrz.com/g/6olu9zuboh3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqV1ChULo</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_881547" available="true">
-        <name>ЛЭТУАЛЬ — Подарок за покупку бренда NARS</name>
-        <url>https://gndrz.com/g/dnrxg4ncx23d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqV1ChULj</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_881545" available="true">
-        <name>ЛЭТУАЛЬ — Подарок за покупку брендов MÉMOIRES D'AMOUR, KHAYALI и SCENTOLOGIA</name>
-        <url>https://gndrz.com/g/aji44muyd03d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqV1ChULh</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_881544" available="true">
-        <name>ЛЭТУАЛЬ — Подарок от ERRE DUE</name>
-        <url>https://gndrz.com/g/3a7y9bpxce3d2015cbd429547bf01b/?i=3&amp;erid=2bL9aMPo2e49hMef4rqV1ChULg</url>
-        <picture>https://cdn.admitad.com/campaign/images/2025/11/24/3444-d576a453190d5a88.svg</picture>
-        <vendor>ЛЭТУАЛЬ</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">ЛЭТУАЛЬ</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_876364" available="true">
@@ -1367,50 +773,6 @@
         <param name="brand">Netology</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_872893" available="true">
-        <name>SuperStep RU — Новая коллекция!</name>
-        <url>https://sgkaa.com/g/jgwfw5bgx43d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUn6BW71</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SuperStep RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_872334" available="true">
-        <name>rendez-vous.ru — Новая коллекция!</name>
-        <url>https://bywiola.com/g/njdiskmjc13d2015cbd4a4f893cf71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUn4eqRk</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_862383" available="true">
-        <name>МегаФон — Xiaomi Серия Redmi Pad 2</name>
-        <url>https://dhwnh.com/g/2bwpvf4xju3d2015cbd4159ac4a8d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUYvesqK</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg</picture>
-        <vendor>МегаФон</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_862380" available="true">
-        <name>МегаФон — Новинка HONOR X6c выгода 3000 р.</name>
-        <url>https://dhwnh.com/g/93kfogk0m53d2015cbd4159ac4a8d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUYvesXj</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg</picture>
-        <vendor>МегаФон</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">3 000 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_862126" available="true">
         <name>Netology — Скидка 7 000 рублей на курс &quot;Саунд-дизайнер&quot;</name>
         <url>https://thevospad.com/g/ua6h65iamd3d2015cbd469bd3583e1/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUYuAYzk</url>
@@ -1488,50 +850,6 @@
         <param name="brand">Netology</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_861282" available="true">
-        <name>Netology — У Netology стартует курс &quot;Найдите свою профессию в IT&quot; с 17.07</name>
-        <url>https://thevospad.com/g/cf7xoavzfv3d2015cbd469bd3583e1/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUSWYf95</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/6/5/34245-6d404196686c077a.svg</picture>
-        <vendor>Netology</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Netology</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_855610" available="true">
-        <name>SuperStep RU — Скидки до – 30% на бренд Lacoste</name>
-        <url>https://sgkaa.com/g/gpiqe394kj3d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUSJeQD8</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SuperStep RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_851660" available="true">
-        <name>Love Republic — летний дайджест</name>
-        <url>https://rthsu.com/g/zjkf3sowxv3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUKm8uqn</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
-        <vendor>Love Republic</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Love Republic</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_850650" available="true">
-        <name>Love Republic — LOVE REPUBLIC –25% на платья</name>
-        <url>https://rthsu.com/g/z00s8kc2uo3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUDPzfdk</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
-        <vendor>Love Republic</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">25%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Love Republic</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_849298" available="true">
         <name>Netology — Скидка 50% на тарифы профессия и хобби!</name>
         <url>https://thevospad.com/g/a1tmryr41u3d2015cbd469bd3583e1/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUDKY3S8</url>
@@ -1565,17 +883,6 @@
         <param name="brand">Airo</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_826703" available="true">
-        <name>Петрович — Карта лояльности теперь выдается при покупке от 1 рубля!</name>
-        <url>https://dhwnh.com/g/8xrn8txdfi3d2015cbd43d96fce434/?i=3&amp;erid=2bL9aMPo2e49hMef4piUr6ZhZf</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/9/14787-99b4de2378c18009.png</picture>
-        <vendor>Петрович</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Петрович</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_820935" available="true">
         <name>Loccitane RU — Скидка 20% кроме сертификатов, спеццен, наборов исключения!</name>
         <url>https://bednari.com/g/xp9yjzvb8p3d2015cbd4837df07f47/?i=3&amp;erid=2bL9aMPo2e49hMef4piUjZ2YPv</url>
@@ -1585,50 +892,6 @@
         <param name="discount">20%</param>
         <param name="dateEnd">2026-06-30T23:59:00</param>
         <param name="brand">Loccitane RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_813685" available="true">
-        <name>ВкусВилл — Скидка 20% на 6 товаров каждый день</name>
-        <url>https://kdbov.com/g/krksmk50hl3d2015cbd4b80ad6f8ae/?i=3&amp;erid=2bL9aMPo2e49hMef4piUWVUYoR</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/4/15/97199-b6a9ffb220c0016a.svg</picture>
-        <vendor>ВкусВилл</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">20%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">ВкусВилл</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_813464" available="true">
-        <name>Мир кубиков RU — Программа лояльности &quot;Клуб друзей&quot;</name>
-        <url>https://yyczo.com/g/8fw8452w893d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4piUWU1EFe</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_811320" available="true">
-        <name>Мир кубиков RU — Бесплатная доставка при заказе от 5000 руб.</name>
-        <url>https://yyczo.com/g/jxg5yuu2803d2015cbd476bf4dc032/?i=3&amp;erid=2bL9aMPo2e49hMef4piUWN3GK3</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/10/24/112981-8babed32d6a8d33a.svg</picture>
-        <vendor>Мир кубиков RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Мир кубиков RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_800979" available="true">
-        <name>SELA — Новая программа лояльности SELA!</name>
-        <url>https://kpwfp.com/g/ebywxwn8yw3d2015cbd426a738318c/?i=3&amp;erid=2bL9aMPo2e49hMef4piUHJUvn6</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/6/26/6476-b9ee2e5541b62d74.svg</picture>
-        <vendor>SELA</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">SELA</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_796250" available="true">
@@ -1763,72 +1026,6 @@
         <param name="brand">SELA</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_787531" available="true">
-        <name>Demix — Распродажа!</name>
-        <url>https://sgkaa.com/g/0ycnah847d3d2015cbd48cc38ea49d/?i=3&amp;erid=5jtCeReNwxHpfQTHuhUcXNL</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/9/104248-55bf773f05786cba.svg</picture>
-        <vendor>Demix</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Demix</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_787530" available="true">
-        <name>Demix — Акции!</name>
-        <url>https://sgkaa.com/g/qfdjs04p0l3d2015cbd48cc38ea49d/?i=3&amp;erid=5jtCeReNwxHpfQTHuhUcXNK</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/7/9/104248-55bf773f05786cba.svg</picture>
-        <vendor>Demix</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Demix</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_785906" available="true">
-        <name>МегаФон — Скидки 4 000 рублей на макбуки</name>
-        <url>https://dhwnh.com/g/x9euniuigb3d2015cbd4159ac4a8d3/?i=3&amp;erid=5jtCeReNwxHpfQTHuhNibax</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg</picture>
-        <vendor>МегаФон</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">4 000 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_782266" available="true">
-        <name>Love Republic — скидка- 10%  при оплате Онлайн!</name>
-        <url>https://rthsu.com/g/noaywl2wud3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4phz5YUgDS</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
-        <vendor>Love Republic</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Love Republic</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_782265" available="true">
-        <name>Love Republic — Бесплатная доставка от 3000 рублей!</name>
-        <url>https://rthsu.com/g/n6ijvmij6y3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4phz5YUgDR</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
-        <vendor>Love Republic</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Love Republic</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_685384" available="true">
-        <name>Bestwatch — Часы-лидеры продаж</name>
-        <url>https://rthsu.com/g/r02jfsqudq3d2015cbd477d7343c30/?i=3&amp;erid=5jtCeReNwxHpfQTHQN5U5dc</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/21/1950-b54a346caa79a70e.svg</picture>
-        <vendor>Bestwatch</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Bestwatch</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_677874" available="true">
         <name>Loccitane RU — Скидка 20% кроме сертификатов, спеццен, наборов исключения!</name>
         <url>https://bednari.com/g/dzvqrh07st3d2015cbd4837df07f47/?i=3&amp;erid=2bL9aMPo2e49hMef4phUdgDM98</url>
@@ -1840,39 +1037,6 @@
         <param name="brand">Loccitane RU</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="adm_631628" available="true">
-        <name>rendez-vous.ru — Двойные бонусы при первой покупке!</name>
-        <url>https://bywiola.com/g/fl1hbcq95e3d2015cbd4a4f893cf71/?i=3&amp;erid=5jtCeReNwxHpfQTGui3QDxz</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/9/1/29412-c0a39d73194fbba3.png</picture>
-        <vendor>rendez-vous.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">rendez-vous.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_586847" available="true">
-        <name>Airo — Бесплатная доставка от 2 490 руб</name>
-        <url>https://xpuvo.com/g/zq0flg72pi3d2015cbd4a3b811983e/?i=3&amp;erid=5jtCeReNwxHpfQTGQbqF3rb</url>
-        <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
-        <vendor>Airo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Airo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_578025" available="true">
-        <name>МегаФон — Заказы от юр. лиц!</name>
-        <url>https://dhwnh.com/g/dkxo06wovi3d2015cbd4159ac4a8d3/?i=3&amp;erid=5jtCeReNwxHpfQTGQNmfidx</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg</picture>
-        <vendor>МегаФон</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="adm_558623" available="true">
         <name>Netology — Скидка 5% на все онлайн-курсы</name>
         <url>https://thevospad.com/g/kkefregy4r3d2015cbd469bd3583e1/?i=3&amp;erid=2bL9aMPo2e49hMef4pgUXbZbwK</url>
@@ -1882,303 +1046,6 @@
         <param name="discount"></param>
         <param name="dateEnd"></param>
         <param name="brand">Netology</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_556841" available="true">
-        <name>SELA — Дарим 1000 рублей в программе лояльности на день рождения!</name>
-        <url>https://kpwfp.com/g/upj16bwfn43d2015cbd426a738318c/?i=3&amp;erid=2bL9aMPo2e49hMef4pgUXVbJWq</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/6/26/6476-b9ee2e5541b62d74.svg</picture>
-        <vendor>SELA</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1 000 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SELA</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_550007" available="true">
-        <name>SELA — Распродажа</name>
-        <url>https://kpwfp.com/g/pnunf4dimq3d2015cbd426a738318c/?i=3&amp;erid=2bL9aMPo2e49hMef4pfzYimSak</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/6/26/6476-b9ee2e5541b62d74.svg</picture>
-        <vendor>SELA</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SELA</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_534080" available="true">
-        <name>Bestwatch — Наручные часы с промоценами!</name>
-        <url>https://rthsu.com/g/aquq570exx3d2015cbd477d7343c30/?i=3&amp;erid=5jtCeReNwxHpfQTFuiTHz2s</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/21/1950-b54a346caa79a70e.svg</picture>
-        <vendor>Bestwatch</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Bestwatch</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_528258" available="true">
-        <name>YVES ROCHER — Бесплатная доставка от 2990 рублей + подарок сюрприз!</name>
-        <url>https://cafxq.com/g/8zlcb5hobh3d2015cbd4c188ef9305/?i=3&amp;erid=5jtCeReNwxHpfQTFuVVecAt</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/1667-50e340ecac199ec3.svg</picture>
-        <vendor>YVES ROCHER</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">YVES ROCHER</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_526708" available="true">
-        <name>YVES ROCHER — Бесплатная доставка от 2990 руб!</name>
-        <url>https://cafxq.com/g/40qitklbb33d2015cbd4c188ef9305/?i=3&amp;erid=5jtCeReNwxHpfQTFuVPizNk</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/1667-50e340ecac199ec3.svg</picture>
-        <vendor>YVES ROCHER</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">YVES ROCHER</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_518850" available="true">
-        <name>МегаФон — Скидки до 10 000р на Айпады</name>
-        <url>https://dhwnh.com/g/ta5y2nadnd3d2015cbd4159ac4a8d3/?i=3&amp;erid=5jtCeReNwxHpfQTFuGQbx6v</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/1/16/2402-40e3a5aa54f776dd.svg</picture>
-        <vendor>МегаФон</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">10 000 ₽</param>
-        <param name="dateEnd"></param>
-        <param name="brand">МегаФон</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_516225" available="true">
-        <name>afisha.yandex.ru — Билеты в Сочи Парк</name>
-        <url>https://bednari.com/g/j37ph7x0rw3d2015cbd4342c94faa7/?i=3&amp;erid=5jtCeReNwxHpfQTFu9wVjRT</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_513955" available="true">
-        <name>YVES ROCHER — Подарки за заказ</name>
-        <url>https://cafxq.com/g/cfhut5motc3d2015cbd4c188ef9305/?i=3&amp;erid=5jtCeReNwxHpfQTFu9ncpnT</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/1667-50e340ecac199ec3.svg</picture>
-        <vendor>YVES ROCHER</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">YVES ROCHER</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_505454" available="true">
-        <name>SELA — Дарим от 150 баллов за добрые поступки</name>
-        <url>https://kpwfp.com/g/iyx83jibh73d2015cbd426a738318c/?i=3&amp;erid=2bL9aMPo2e49hMef4pfVZ47kcV</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/6/26/6476-b9ee2e5541b62d74.svg</picture>
-        <vendor>SELA</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SELA</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_488634" available="true">
-        <name>Bestwatch — Оплата заказа частями</name>
-        <url>https://rthsu.com/g/652m5esfsz3d2015cbd477d7343c30/?i=3&amp;erid=5jtCeReNwxHpfQTFQcNYRgw</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/21/1950-b54a346caa79a70e.svg</picture>
-        <vendor>Bestwatch</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">1%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Bestwatch</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487453" available="true">
-        <name>Интернет-магазин Алёнка — Каталог чая, кофе</name>
-        <url>https://dhwnh.com/g/5quarg2iha3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmuM</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487452" available="true">
-        <name>Интернет-магазин Алёнка — Конфеты</name>
-        <url>https://dhwnh.com/g/9r2htqkc2d3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmuL</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487451" available="true">
-        <name>Интернет-магазин Алёнка — Сладкие новогодние подарки 2023</name>
-        <url>https://dhwnh.com/g/wutnly4yee3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmuK</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487450" available="true">
-        <name>Интернет-магазин Алёнка — В этом разделе представлены свежие сладости - не старше 10 дней с даты производства</name>
-        <url>https://dhwnh.com/g/ajn84it16e3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmuJ</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487448" available="true">
-        <name>Интернет-магазин Алёнка — Новинки</name>
-        <url>https://dhwnh.com/g/utay6rh4173d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmq2</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487447" available="true">
-        <name>Интернет-магазин Алёнка — Только в Алёнке</name>
-        <url>https://dhwnh.com/g/38eg84dnb33d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmq1</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_487446" available="true">
-        <name>Интернет-магазин Алёнка — Товары по акции</name>
-        <url>https://dhwnh.com/g/30kaaelupj3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6szmpz</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
-        <vendor>Интернет-магазин Алёнка</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Интернет-магазин Алёнка</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_486922" available="true">
-        <name>online.globus.ru — Держим цену</name>
-        <url>https://dorinebeaumont.com/g/iixvh1aqdb3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4pfV6sxm1i</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">online.globus.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_475076" available="true">
-        <name>SuperStep RU — Раздел SALE</name>
-        <url>https://sgkaa.com/g/x20xey56uu3d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4pfUmKrvHV</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SuperStep RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_468627" available="true">
-        <name>online.globus.ru — Социальная скидка</name>
-        <url>https://dorinebeaumont.com/g/oyurmkrnwu3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4peztzbbDw</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">online.globus.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_465394" available="true">
-        <name>Airo — Скидка 50% на чистку детской одежды</name>
-        <url>https://xpuvo.com/g/a36kliynqs3d2015cbd4a3b811983e/?i=3&amp;erid=5jtCeReNwxHpfQTEvHy6j2B</url>
-        <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
-        <vendor>Airo</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">50%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Airo</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_455799" available="true">
-        <name>afisha.yandex.ru — Скидки до 90 % и повышенный кешбэк до 25 %</name>
-        <url>https://bednari.com/g/j8s0mr3xdp3d2015cbd4342c94faa7/?i=3&amp;erid=5jtCeReNwxHpfQTEv4t2jBJ</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">90%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_446752" available="true">
-        <name>Loccitane RU — Бесплатный самовывоз из магазина!</name>
-        <url>https://bednari.com/g/epa7v5njjp3d2015cbd4837df07f47/?i=3&amp;erid=2bL9aMPo2e49hMef4pezLKsQG1</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/4462-eb974a0ca795e884.svg</picture>
-        <vendor>Loccitane RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Loccitane RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_404777" available="true">
-        <name>Loccitane RU — Бесплатные образцы в подарок к любому заказу!</name>
-        <url>https://bednari.com/g/iszahhlmg73d2015cbd4837df07f47/?i=3&amp;erid=2bL9aMPo2e49hMef4peVT3rcWn</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/13/4462-eb974a0ca795e884.svg</picture>
-        <vendor>Loccitane RU</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount"></param>
-        <param name="dateEnd"></param>
-        <param name="brand">Loccitane RU</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_398058" available="true">
-        <name>Bestwatch — Наручные часы с клубными скидками!</name>
-        <url>https://rthsu.com/g/amgtp82ghc3d2015cbd477d7343c30/?i=3&amp;erid=5jtCeReNwxHpfQTEQjRsxjh</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/21/1950-b54a346caa79a70e.svg</picture>
-        <vendor>Bestwatch</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Bestwatch</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_398056" available="true">
-        <name>Bestwatch — Товар дня со скидкой!</name>
-        <url>https://rthsu.com/g/4xon3ztve23d2015cbd477d7343c30/?i=3&amp;erid=5jtCeReNwxHpfQTEQjRsxjf</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/21/1950-b54a346caa79a70e.svg</picture>
-        <vendor>Bestwatch</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">Bestwatch</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="adm_383788" available="true">
-        <name>SELA — Скидка -5% на всё при оплате онлайн!</name>
-        <url>https://kpwfp.com/g/kifwl0ebgt3d2015cbd426a738318c/?i=3&amp;erid=2bL9aMPo2e49hMef4pe129tR24</url>
-        <picture>https://cdn.admitad.com/campaign/images/2024/6/26/6476-b9ee2e5541b62d74.svg</picture>
-        <vendor>SELA</vendor>
-        <param name="promocode">НЕ НУЖЕН</param>
-        <param name="discount">5%</param>
-        <param name="dateEnd"></param>
-        <param name="brand">SELA</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="adm_368021" available="true">
@@ -2202,6 +1069,316 @@
         <param name="dateEnd"></param>
         <param name="brand">Airo</param>
         <param name="source">admitad</param>
+      </offer>
+      <offer id="ack_pc114586" available="true">
+        <name>cozyhome.ru — advcake10</name>
+        <url>https://go.redav.online/b1a95f9f00e60270?erid=LdtCK7Fdy&amp;m=34</url>
+        <vendor>cozyhome.ru</vendor>
+        <param name="promocode">advcake10</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-12-31</param>
+        <param name="brand">cozyhome.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc115276" available="true">
+        <name>baon.ru — advcake</name>
+        <url>https://go.redav.online/f68a66db44fbf191?erid=LdtCKJLum&amp;m=34</url>
+        <vendor>baon.ru</vendor>
+        <param name="promocode">advcake</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">baon.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc122316" available="true">
+        <name>tvoydom.ru — TDW500</name>
+        <url>https://go.redav.online/f89c5d34ea5f9f61?erid=LdtCJys3V&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">TDW500</param>
+        <param name="discount">500 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc122317" available="true">
+        <name>tvoydom.ru — TDW1000</name>
+        <url>https://go.redav.online/f89c5d34ea5f9f61?erid=LdtCJys3V&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">TDW1000</param>
+        <param name="discount">1000 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc122318" available="true">
+        <name>tvoydom.ru — TDW2000</name>
+        <url>https://go.redav.online/f89c5d34ea5f9f61?erid=LdtCJys3V&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">TDW2000</param>
+        <param name="discount">2000 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc122319" available="true">
+        <name>tvoydom.ru — TDW5000</name>
+        <url>https://go.redav.online/f89c5d34ea5f9f61?erid=LdtCJys3V&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">TDW5000</param>
+        <param name="discount">5000 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc122320" available="true">
+        <name>tvoydom.ru — TDW10000</name>
+        <url>https://go.redav.online/f89c5d34ea5f9f61?erid=LdtCJys3V&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">TDW10000</param>
+        <param name="discount">10000 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc129647" available="true">
+        <name>netology.ru — CODE5</name>
+        <url>https://go.redav.online/8c0799d5e42e2ab1?erid=2VfnxyJksTG&amp;m=34</url>
+        <vendor>netology.ru</vendor>
+        <param name="promocode">CODE5</param>
+        <param name="discount">5000 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">netology.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc132310" available="true">
+        <name>vseinstrumenti.ru — EWN25B2B</name>
+        <url>https://go.redav.online/fa967297d6c6e0a1?erid=2VfnxyUkUoc&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">EWN25B2B</param>
+        <param name="discount">25%</param>
+        <param name="dateEnd">2026-12-31</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc133364" available="true">
+        <name>netology.ru — advcake</name>
+        <url>https://go.redav.online/6fc5d6aef9185f51?erid=2VfnxyWcmi2&amp;m=34</url>
+        <vendor>netology.ru</vendor>
+        <param name="promocode">advcake</param>
+        <param name="discount">8%</param>
+        <param name="dateEnd">2028-12-31</param>
+        <param name="brand">netology.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134205" available="true">
+        <name>goldapple.ru — СТАРТ</name>
+        <url>https://go.redav.online/f1c1a44287ca6380?erid=LdtCKFJmG&amp;m=34</url>
+        <vendor>goldapple.ru</vendor>
+        <param name="promocode">СТАРТ</param>
+        <param name="discount">20%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">goldapple.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134703" available="true">
+        <name>dixy.ru — BLADV4400</name>
+        <url>https://go.redav.online/5f4d24b73d0e0841?erid=2VfnxyFPwSr&amp;m=34</url>
+        <vendor>dixy.ru</vendor>
+        <param name="promocode">BLADV4400</param>
+        <param name="discount">15%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">dixy.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134806" available="true">
+        <name>iledebeaute.ru — SALE01</name>
+        <url>https://go.redav.online/d797f18adc3a1ae1?erid=2VfnxwMkKsp&amp;m=34</url>
+        <vendor>iledebeaute.ru</vendor>
+        <param name="promocode">SALE01</param>
+        <param name="discount">30%</param>
+        <param name="dateEnd">2026-09-30</param>
+        <param name="brand">iledebeaute.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134817" available="true">
+        <name>online.globus.ru — a126sale</name>
+        <url>https://go.redav.online/1cc31006e9d278f0?erid=LdtCKBxXq&amp;m=34</url>
+        <vendor>online.globus.ru</vendor>
+        <param name="promocode">a126sale</param>
+        <param name="discount">12%</param>
+        <param name="dateEnd">2026-09-15</param>
+        <param name="brand">online.globus.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134838" available="true">
+        <name>online.globus.ru — a8226sale</name>
+        <url>https://go.redav.online/1cc31006e9d278f0?erid=LdtCKBxXq&amp;m=34</url>
+        <vendor>online.globus.ru</vendor>
+        <param name="promocode">a8226sale</param>
+        <param name="discount">8%</param>
+        <param name="dateEnd">2026-09-15</param>
+        <param name="brand">online.globus.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134859" available="true">
+        <name>online.globus.ru — asale226h</name>
+        <url>https://go.redav.online/1cc31006e9d278f0?erid=LdtCKBxXq&amp;m=34</url>
+        <vendor>online.globus.ru</vendor>
+        <param name="promocode">asale226h</param>
+        <param name="discount">20%</param>
+        <param name="dateEnd">2026-09-15</param>
+        <param name="brand">online.globus.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134909" available="true">
+        <name>vseinstrumenti.ru — NEO10TLS</name>
+        <url>https://go.redav.online/7e6052ed9332b311?erid=2VfnxyY9T9U&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">NEO10TLS</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134910" available="true">
+        <name>vseinstrumenti.ru — TURBJT15</name>
+        <url>https://go.redav.online/7292dcfa6a7433c1?erid=2VfnxxBaSh8&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">TURBJT15</param>
+        <param name="discount">15%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134911" available="true">
+        <name>vseinstrumenti.ru — DCA10INS</name>
+        <url>https://go.redav.online/7a2e242eb400a271?erid=2VfnxwvmuoQ&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">DCA10INS</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134914" available="true">
+        <name>vseinstrumenti.ru — ZQGLPKLG</name>
+        <url>https://go.redav.online/a6b9dc1745b8bea1?erid=2VfnxweGDap&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">ZQGLPKLG</param>
+        <param name="discount">4%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134939" available="true">
+        <name>vseinstrumenti.ru — ZQI1I19S</name>
+        <url>https://go.redav.online/a6b9dc1745b8bea1?erid=2VfnxweGDap&amp;m=34</url>
+        <vendor>vseinstrumenti.ru</vendor>
+        <param name="promocode">ZQI1I19S</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">vseinstrumenti.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134968" available="true">
+        <name>tvoydom.ru — SUN25</name>
+        <url>https://go.redav.online/08ce678008036621?erid=2VfnxxV9sQe&amp;m=34</url>
+        <vendor>tvoydom.ru</vendor>
+        <param name="promocode">SUN25</param>
+        <param name="discount">25%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">tvoydom.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc134989" available="true">
+        <name>mi-shop.com — AC17TC</name>
+        <url>https://go.redav.online/6e1879175f581f20?erid=2VfnxvvkDgM&amp;m=34</url>
+        <vendor>mi-shop.com</vendor>
+        <param name="promocode">AC17TC</param>
+        <param name="discount">2998 ₽</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">mi-shop.com</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135222" available="true">
+        <name>dixy.ru — BLADV4800</name>
+        <url>https://go.redav.online/5f4d24b73d0e0841?erid=2VfnxyFPwSr&amp;m=34</url>
+        <vendor>dixy.ru</vendor>
+        <param name="promocode">BLADV4800</param>
+        <param name="discount">12%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">dixy.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135262" available="true">
+        <name>iledebeaute.ru — SALE10</name>
+        <url>https://go.redav.online/d2f21910745729b1?erid=2VfnxyXxEGK&amp;m=34</url>
+        <vendor>iledebeaute.ru</vendor>
+        <param name="promocode">SALE10</param>
+        <param name="discount">75%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">iledebeaute.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135288" available="true">
+        <name>zarina.ru — ПРОМО15</name>
+        <url>https://go.redav.online/7931eb6ed159bab1?erid=2VfnxvPPfVd&amp;m=34</url>
+        <vendor>zarina.ru</vendor>
+        <param name="promocode">ПРОМО15</param>
+        <param name="discount">15%</param>
+        <param name="dateEnd">2026-06-28</param>
+        <param name="brand">zarina.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135311" available="true">
+        <name>iledebeaute.ru — RITUELS10</name>
+        <url>https://go.redav.online/f816404e556417d1?erid=2VfnxvbVLeP&amp;m=34</url>
+        <vendor>iledebeaute.ru</vendor>
+        <param name="promocode">RITUELS10</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-07-31</param>
+        <param name="brand">iledebeaute.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135312" available="true">
+        <name>iledebeaute.ru — CELL10</name>
+        <url>https://go.redav.online/bd398e695f347e91?erid=2VfnxwkCnKu&amp;m=34</url>
+        <vendor>iledebeaute.ru</vendor>
+        <param name="promocode">CELL10</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-07-31</param>
+        <param name="brand">iledebeaute.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135325" available="true">
+        <name>letu.ru — ЛЕТО</name>
+        <url>https://go.redav.online/675847a398f97180?erid=2Vfnxw7JVzY&amp;m=34</url>
+        <vendor>letu.ru</vendor>
+        <param name="promocode">ЛЕТО</param>
+        <param name="discount">35%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">letu.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135337" available="true">
+        <name>letu.ru — НАБЕРИ</name>
+        <url>https://go.redav.online/9b124561ec076691?erid=2VfnxyXxaao&amp;m=34</url>
+        <vendor>letu.ru</vendor>
+        <param name="promocode">НАБЕРИ</param>
+        <param name="discount"></param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">letu.ru</param>
+        <param name="source">advcake</param>
+      </offer>
+      <offer id="ack_pc135349" available="true">
+        <name>letu.ru — КРЕМШОП20</name>
+        <url>https://go.redav.online/869ac60d000cfb71?erid=2VfnxyWQE7m&amp;m=34</url>
+        <vendor>letu.ru</vendor>
+        <param name="promocode">КРЕМШОП20</param>
+        <param name="discount">20%</param>
+        <param name="dateEnd">2026-06-30</param>
+        <param name="brand">letu.ru</param>
+        <param name="source">advcake</param>
       </offer>
     </offers>
   </shop>
