@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24T14:08:22+03:00">
+<yml_catalog date="2026-06-24T14:19:27+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
@@ -11,6 +11,7 @@
         <param name="promocode">ONLINE</param>
         <param name="discount">15%</param>
         <param name="dateEnd">2026-08-31T23:59:00</param>
+        <param name="dateEndText">31 августа</param>
         <param name="brand">Love Republic</param>
         <param name="groupId">grp_love_republic</param>
         <param name="source">admitad</param>
@@ -23,6 +24,7 @@
         <param name="promocode">SS2026</param>
         <param name="discount">10%</param>
         <param name="dateEnd">2026-08-31T23:59:00</param>
+        <param name="dateEndText">31 августа</param>
         <param name="brand">Love Republic</param>
         <param name="groupId">grp_love_republic</param>
         <param name="source">admitad</param>
@@ -35,6 +37,7 @@
         <param name="promocode">ЛЕТО2026</param>
         <param name="discount">10%</param>
         <param name="dateEnd">2026-08-31T23:59:00</param>
+        <param name="dateEndText">31 августа</param>
         <param name="brand">Love Republic</param>
         <param name="groupId">grp_love_republic</param>
         <param name="source">admitad</param>
@@ -47,6 +50,7 @@
         <param name="promocode">admtula</param>
         <param name="discount">3 500 ₽</param>
         <param name="dateEnd">2026-09-15T23:59:00</param>
+        <param name="dateEndText">15 сентября</param>
         <param name="brand">online.globus.ru</param>
         <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
@@ -59,6 +63,7 @@
         <param name="promocode">adm2026next</param>
         <param name="discount">20%</param>
         <param name="dateEnd">2026-09-15T23:59:59</param>
+        <param name="dateEndText">15 сентября</param>
         <param name="brand">online.globus.ru</param>
         <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
@@ -71,6 +76,7 @@
         <param name="promocode">adm8226next</param>
         <param name="discount">8%</param>
         <param name="dateEnd">2026-09-15T23:59:59</param>
+        <param name="dateEndText">15 сентября</param>
         <param name="brand">online.globus.ru</param>
         <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
@@ -83,6 +89,7 @@
         <param name="promocode">adm126</param>
         <param name="discount">12%</param>
         <param name="dateEnd">2026-09-15T23:59:59</param>
+        <param name="dateEndText">15 сентября</param>
         <param name="brand">online.globus.ru</param>
         <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
@@ -95,6 +102,7 @@
         <param name="promocode">20OFF618</param>
         <param name="discount">1 400 ₽</param>
         <param name="dateEnd">2026-06-30T23:59:00</param>
+        <param name="dateEndText">30 июня</param>
         <param name="brand">AliExpress RU&amp;CIS</param>
         <param name="groupId">grp_aliexpress_ru_cis</param>
         <param name="source">admitad</param>
@@ -107,6 +115,7 @@
         <param name="promocode">618POCO10OFF</param>
         <param name="discount">700 ₽</param>
         <param name="dateEnd">2026-06-30T23:59:00</param>
+        <param name="dateEndText">30 июня</param>
         <param name="brand">AliExpress RU&amp;CIS</param>
         <param name="groupId">grp_aliexpress_ru_cis</param>
         <param name="source">admitad</param>
@@ -119,6 +128,7 @@
         <param name="promocode">ADM30M</param>
         <param name="discount">30%</param>
         <param name="dateEnd"></param>
+        <param name="dateEndText"></param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
@@ -131,6 +141,7 @@
         <param name="promocode">ADM35CL</param>
         <param name="discount">35%</param>
         <param name="dateEnd"></param>
+        <param name="dateEndText"></param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
@@ -143,6 +154,7 @@
         <param name="promocode">ADM20H</param>
         <param name="discount">20%</param>
         <param name="dateEnd"></param>
+        <param name="dateEndText"></param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
@@ -155,6 +167,7 @@
         <param name="promocode">PROMO0826</param>
         <param name="discount"></param>
         <param name="dateEnd">2026-07-31T23:59:00</param>
+        <param name="dateEndText">31 июля</param>
         <param name="brand">afisha.yandex.ru</param>
         <param name="groupId">grp_afisha_yandex_ru</param>
         <param name="source">admitad</param>
@@ -167,6 +180,7 @@
         <param name="promocode">admitad30</param>
         <param name="discount">30%</param>
         <param name="dateEnd">2026-06-30T23:59:00</param>
+        <param name="dateEndText">30 июня</param>
         <param name="brand">COZY HOME</param>
         <param name="groupId">grp_cozy_home</param>
         <param name="source">admitad</param>
@@ -179,6 +193,7 @@
         <param name="promocode">Super10Admitad16</param>
         <param name="discount">10%</param>
         <param name="dateEnd">2026-07-31T23:59:59</param>
+        <param name="dateEndText">31 июля</param>
         <param name="brand">SuperStep RU</param>
         <param name="groupId">grp_superstep_ru</param>
         <param name="source">admitad</param>
@@ -191,6 +206,7 @@
         <param name="promocode">superadmitad</param>
         <param name="discount">10%</param>
         <param name="dateEnd">2026-07-31T23:59:00</param>
+        <param name="dateEndText">31 июля</param>
         <param name="brand">SuperStep RU</param>
         <param name="groupId">grp_superstep_ru</param>
         <param name="source">admitad</param>
@@ -203,6 +219,7 @@
         <param name="promocode">ADMDOVR</param>
         <param name="discount">20%</param>
         <param name="dateEnd">2026-12-31T23:59:59</param>
+        <param name="dateEndText">31 декабря</param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
@@ -215,6 +232,7 @@
         <param name="promocode">ADMCL2146</param>
         <param name="discount">500 ₽</param>
         <param name="dateEnd"></param>
+        <param name="dateEndText"></param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
@@ -227,6 +245,7 @@
         <param name="promocode">ADM412</param>
         <param name="discount">500 ₽</param>
         <param name="dateEnd"></param>
+        <param name="dateEndText"></param>
         <param name="brand">Airo</param>
         <param name="groupId">grp_airo</param>
         <param name="source">admitad</param>
