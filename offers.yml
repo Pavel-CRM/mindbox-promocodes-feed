@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24T14:31:01+03:00">
+<yml_catalog date="2026-06-24T14:35:09+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
       <offer id="offer_adm_931771" group_id="grp_love_republic" available="true">
-        <name>Love Republic — 15% на раздел эксклюзивно онлайн</name>
+        <name>15% на раздел эксклюзивно онлайн</name>
         <url>https://rthsu.com/g/14ce3m9h7t3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzjayd</url>
         <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
         <vendor>Love Republic</vendor>
@@ -17,7 +17,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_931770" group_id="grp_love_republic" available="true">
-        <name>Love Republic — 10% на новинки</name>
+        <name>10% на новинки</name>
         <url>https://rthsu.com/g/qo202nilme3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzjayc</url>
         <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
         <vendor>Love Republic</vendor>
@@ -30,7 +30,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_931769" group_id="grp_love_republic" available="true">
-        <name>Love Republic — 10% на новинки</name>
+        <name>10% на новинки</name>
         <url>https://rthsu.com/g/3tfp584u3c3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzjayb</url>
         <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
         <vendor>Love Republic</vendor>
@@ -43,7 +43,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_931056" group_id="grp_online_globus_ru" available="true">
-        <name>online.globus.ru — Бесплатная доставка от 3500 руб</name>
+        <name>Бесплатная доставка от 3500 руб</name>
         <url>https://dorinebeaumont.com/g/5umhcfby5q3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ei3</url>
         <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
         <vendor>online.globus.ru</vendor>
@@ -56,7 +56,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_930007" group_id="grp_online_globus_ru" available="true">
-        <name>online.globus.ru — 20% от 8790р на Хиты продаж</name>
+        <name>20% от 8790р на Хиты продаж</name>
         <url>https://dorinebeaumont.com/g/kr0hrvfxz93d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkae2ZU</url>
         <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
         <vendor>online.globus.ru</vendor>
@@ -69,7 +69,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_929964" group_id="grp_online_globus_ru" available="true">
-        <name>online.globus.ru — Скидка 8% на 1 заказ от 6590 руб. (кроме акц товаров, электроники и бытовой техники)</name>
+        <name>Скидка 8% на 1 заказ от 6590 руб. (кроме акц товаров, электроники и бытовой техники)</name>
         <url>https://dorinebeaumont.com/g/2u1m2yuzb13d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkadhXy</url>
         <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
         <vendor>online.globus.ru</vendor>
@@ -82,7 +82,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_929921" group_id="grp_online_globus_ru" available="true">
-        <name>online.globus.ru — Admitad/12% от 5500, но не более 1000р, кроме исключений Новый клиент</name>
+        <name>Admitad/12% от 5500, но не более 1000р, кроме исключений Новый клиент</name>
         <url>https://dorinebeaumont.com/g/zkarfaoe6q3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkadhEG</url>
         <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
         <vendor>online.globus.ru</vendor>
@@ -95,7 +95,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_929636" group_id="grp_aliexpress_ru_cis" available="true">
-        <name>AliExpress RU&amp;CIS — Акция магазина POCO Flagship Store. Скидка 1400 руб. без порога по сумме заказа</name>
+        <name>Акция магазина POCO Flagship Store. Скидка 1400 руб. без порога по сумме заказа</name>
         <url>https://ali.click/pisce1k?gc=4mkdkq83gy3d2015cbd4b6d1781017&amp;erid=2bL9aMPo2e49hMef4rrTkac1u1&amp;i=3</url>
         <picture>https://cdn.admitad.com/campaign/images/2023/2/21/25179-4a8264133bfb54e6.png</picture>
         <vendor>AliExpress RU&amp;CIS</vendor>
@@ -108,7 +108,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_929635" group_id="grp_aliexpress_ru_cis" available="true">
-        <name>AliExpress RU&amp;CIS — Акция магазина POCO Flagship Store. Скидка 700 руб. без порога по сумме заказа</name>
+        <name>Акция магазина POCO Flagship Store. Скидка 700 руб. без порога по сумме заказа</name>
         <url>https://ali.click/t7qce1i?gc=n5c1zuyiyf3d2015cbd4b6d1781017&amp;erid=2bL9aMPo2e49hMef4rrTkac1pk&amp;i=3</url>
         <picture>https://cdn.admitad.com/campaign/images/2023/2/21/25179-4a8264133bfb54e6.png</picture>
         <vendor>AliExpress RU&amp;CIS</vendor>
@@ -121,7 +121,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_919867" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 30% на химчистку мебели и ковров</name>
+        <name>Скидка 30% на химчистку мебели и ковров</name>
         <url>https://xpuvo.com/g/f9nzg57qiz3d2015cbd4a3b811983e/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymqETcQ</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
@@ -134,7 +134,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_919866" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 35% на поддерживающую уборку</name>
+        <name>Скидка 35% на поддерживающую уборку</name>
         <url>https://xpuvo.com/g/ngsqql9lql3d2015cbd4a3b811983e/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymqETcP</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
@@ -147,7 +147,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_919865" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 20% на химчистку с доставкой</name>
+        <name>Скидка 20% на химчистку с доставкой</name>
         <url>https://xpuvo.com/g/zuzfkmjynq3d2015cbd4a3b811983e/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymqETcN</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
@@ -160,7 +160,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_916747" group_id="grp_afisha_yandex_ru" available="true">
-        <name>afisha.yandex.ru — Скидка 300 рублей для покупок от 3000 рублей</name>
+        <name>Скидка 300 рублей для покупок от 3000 рублей</name>
         <url>https://bednari.com/g/aw5gia5ujt3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymgMYSV</url>
         <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
         <vendor>afisha.yandex.ru</vendor>
@@ -173,7 +173,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_897798" group_id="grp_cozy_home" available="true">
-        <name>COZY HOME — 30% от 5000</name>
+        <name>30% от 5000</name>
         <url>https://ficca2021.com/g/k7pgzv4jt63d2015cbd474bec426fb/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKTHbY4</url>
         <picture>https://cdn.admitad.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg</picture>
         <vendor>COZY HOME</vendor>
@@ -186,7 +186,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_876164" group_id="grp_superstep_ru" available="true">
-        <name>SuperStep RU — Скидка 10% на новую коллекцию</name>
+        <name>Скидка 10% на новую коллекцию</name>
         <url>https://sgkaa.com/g/mfcgm9kwjh3d2015cbd4a814938f71/?i=31&amp;erid=2bL9aMPo2e49hMef4rqUtcBKi5</url>
         <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
         <vendor>SuperStep RU</vendor>
@@ -199,7 +199,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_847868" group_id="grp_superstep_ru" available="true">
-        <name>SuperStep RU — Скидка 10% на новую коллекцию!</name>
+        <name>Скидка 10% на новую коллекцию!</name>
         <url>https://sgkaa.com/g/5hqzn6pn2v3d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUDDcky6</url>
         <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
         <vendor>SuperStep RU</vendor>
@@ -212,7 +212,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_844259" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 20% на все услуги</name>
+        <name>Скидка 20% на все услуги</name>
         <url>https://xpuvo.com/g/5jmlzgbk3x3d2015cbd4a3b811983e/?i=31&amp;erid=2bL9aMPo2e49hMef4rqU6j1t7r</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
@@ -225,7 +225,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_368021" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 500 рублей на уборку квартир</name>
+        <name>Скидка 500 рублей на уборку квартир</name>
         <url>https://xpuvo.com/g/6aecqka1ji3d2015cbd4a3b811983e/?i=3&amp;erid=5jtCeReNwxHpfQTDv5HuVdz</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
@@ -238,7 +238,7 @@
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_367039" group_id="grp_airo" available="true">
-        <name>Airo — Скидка 500 рублей на химчистку одежды и обуви с доставкой</name>
+        <name>Скидка 500 рублей на химчистку одежды и обуви с доставкой</name>
         <url>https://xpuvo.com/g/3hzz36s0mx3d2015cbd4a3b811983e/?i=3&amp;erid=5jtCeReNwxHpfQTDv5DUsZt</url>
         <picture>https://cdn.admitad.com/campaign/images/2026/4/24/18887-f8dc0760633826ac.png</picture>
         <vendor>Airo</vendor>
