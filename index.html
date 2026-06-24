@@ -145,7 +145,7 @@ function esc(s){
  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];
  });
 }
-function isSvg(url){return /\.svg(\?|$)/i.test(url||"");}
+function isSvg(url){return false;}
 
 function cardHtml(o, idx){
  var hasPromo = o.promocode && o.promocode.trim();
