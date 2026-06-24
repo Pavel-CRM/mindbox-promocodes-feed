@@ -145,7 +145,7 @@ function esc(s){
  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];
  });
 }
-function isSvg(url){return false;}
+function isSvg(url){return false;} // в браузере SVG отображается нормально — показываем все картинки
 
 function cardHtml(o, idx){
  var hasPromo = o.promocode && o.promocode.trim();
@@ -234,5 +234,18 @@ document.getElementById("search").addEventListener("input", function(e){
 
 load();
 </script>
+
+<!-- ═══════════════════════════════════════════════════════════════
+ СЧЁТЧИК ПОСЕЩЕНИЙ (GoatCounter) — статистика по дням.
+ КАК ВКЛЮЧИТЬ:
+ 1. Зарегистрируйся на goatcounter.com (1 экран: почта + код-имя сайта).
+ 2. Замени ниже MYCODE на своё код-имя (то, что в адресе
+ твоего счётчика: МОЁИМЯ.goatcounter.com).
+ 3. Залей файл — счётчик заработает.
+ Статистику смотришь в панели на МОЁИМЯ.goatcounter.com (график по дням).
+ Если оставить MYCODE как есть — счётчик просто не работает, на витрину не влияет.
+ ═══════════════════════════════════════════════════════════════ -->
+<script data-goatcounter="https://pavel-crm.goatcounter.com/count"
+ async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
