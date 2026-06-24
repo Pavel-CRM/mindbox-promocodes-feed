@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Промокоды партнёров — Mokka</title>
+<style>
+ :root{
+ --orange:#FF5A1E; --orange-soft:#FFEDE5; --ink:#1a1a1a;
+ --muted:#6b7280; --line:#ececec; --bg:#fafafa; --card:#fff;
+ }
+ *{box-sizing:border-box;margin:0;padding:0}
+ body{
+ font-family:'Rubik',-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+ background:var(--bg); color:var(--ink); line-height:1.5;
+ -webkit-font-smoothing:antialiased;
+ }
+ .wrap{max-width:1200px;margin:0 auto;padding:32px 20px 80px}
+
+ /* шапка */
+ header{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+ .logo{font-size:30px;font-weight:700;color:var(--orange);letter-spacing:-.5px}
+ h1{font-size:22px;font-weight:600}
+ .sub{color:var(--muted);font-size:14px;margin-bottom:24px}
+ .sub b{color:var(--ink);font-weight:600}
+
+ /* панель поиска */
+ .bar{
+ display:flex;gap:12px;flex-wrap:wrap;align-items:center;
+ margin-bottom:28px;position:sticky;top:0;background:var(--bg);
+ padding:12px 0;z-index:5;
+ }
+ .search{
+ flex:1;min-width:220px;padding:12px 16px;font-size:15px;
+ border:1px solid var(--line);border-radius:12px;background:var(--card);
+ font-family:inherit;outline:none;transition:border-color .15s;
+ }
+ .search:focus{border-color:var(--orange)}
+ .filter{
+ padding:9px 14px;border:1px solid var(--line);border-radius:999px;
+ background:var(--card);font-size:13px;font-weight:500;cursor:pointer;
+ color:var(--muted);transition:all .15s;font-family:inherit;
+ }
+ .filter:hover{border-color:var(--orange);color:var(--ink)}
+ .filter.on{background:var(--orange);color:#fff;border-color:var(--orange)}
+
+ /* сетка */
+ .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+
+ .card{
+ background:var(--card);border:1px solid var(--line);border-radius:16px;
+ padding:18px;display:flex;flex-direction:column;gap:12px;
+ transition:box-shadow .15s,transform .15s;
+ }
+ .card:hover{box-shadow:0 6px 24px rgba(0,0,0,.07);transform:translateY(-2px)}
+ .card-top{display:flex;gap:14px;align-items:flex-start}
+ .thumb{
+ width:64px;height:64px;border-radius:10px;object-fit:contain;
+ background:#f4f4f4;flex-shrink:0;padding:6px;
+ }
+ .thumb-fallback{
+ width:64px;height:64px;border-radius:10px;flex-shrink:0;
+ background:var(--orange-soft);color:var(--orange);
+ display:flex;align-items:center;justify-content:center;
+ font-weight:700;font-size:20px;
+ }
+ .brand{font-weight:600;font-size:15px;line-height:1.25}
+ .title{font-size:13px;color:var(--muted);margin-top:3px}
+
+ .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+ .discount{
+ background:var(--orange-soft);color:var(--orange);
+ font-size:12px;font-weight:600;padding:3px 9px;border-radius:6px;
+ }
+ .date{font-size:12px;color:var(--muted)}
+
+ /* промокод */
+ .promo{
+ display:flex;align-items:center;gap:8px;margin-top:auto;
+ background:#f7f7f8;border:1px dashed #d4d4d8;border-radius:10px;
+ padding:10px 12px;
+ }
+ .promo-code{
+ font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+ font-weight:600;font-size:14px;letter-spacing:.3px;flex:1;
+ color:var(--ink);word-break:break-all;
+ }
+ .promo-none{color:var(--muted);font-size:13px;font-style:italic;flex:1}
+ .copy{
+ background:var(--orange);color:#fff;border:none;border-radius:8px;
+ padding:7px 12px;font-size:12px;font-weight:600;cursor:pointer;
+ font-family:inherit;white-space:nowrap;transition:opacity .15s;
+ }
+ .copy:hover{opacity:.88}
+ .copy.done{background:#16a34a}
+ .go{
+ font-size:12px;font-weight:600;color:var(--orange);
+ text-decoration:none;align-self:flex-start;
+ }
+ .go:hover{text-decoration:underline}
+
+ .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
+ .loading{text-align:center;color:var(--muted);padding:60px 20px}
+
+ @media(max-width:520px){
+ .grid{grid-template-columns:1fr}
+ .wrap{padding:20px 14px 60px}
+ }
+</style>
+</head>
+<body>
+<div class="wrap">
+ <header>
+ <span class="logo">Mokka</span>
+ <h1>Промокоды партнёров</h1>
+ </header>
+ <p class="sub" id="sub">Загружаем актуальные предложения…</p>
+
+ <div class="bar">
+ <input class="search" id="search" placeholder="Поиск по бренду, названию или промокоду…" autocomplete="off">
+ <button class="filter on" data-f="all" id="f-all">Все</button>
+ <button class="filter" data-f="promo" id="f-promo">С промокодом</button>
+ </div>
+
+ <div id="content">
+ <div class="loading">Загрузка…</div>
+ </div>
+</div>
+
+<script>
+// ⚠️ ВПИШИ свою ссылку на offers-all.json (raw GitHub).
+// Формат: https://raw.githubusercontent.com/ВЛАДЕЛЕЦ/РЕПО/main/offers-all.json
+var DATA_URL = "https://raw.githubusercontent.com/Pavel-CRM/mindbox-promocodes-feed/main/offers-all.json";
+
+var allOffers = [];
+var filterMode = "all";
+var searchText = "";
+
+function initial(brand){
+ brand = (brand||"").trim();
+ return brand ? brand[0].toUpperCase() : "?";
+}
+function esc(s){
+ return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];
+ });
+}
+function isSvg(url){return /\.svg(\?|$)/i.test(url||"");}
+
+function cardHtml(o, idx){
+ var hasPromo = o.promocode && o.promocode.trim();
+ var img = (o.image && !isSvg(o.image))
+ ? '<img class="thumb" src="'+esc(o.image)+'" alt="" onerror="this.outerHTML=\''+
+ '<div class=&quot;thumb-fallback&quot;>'+esc(initial(o.brand))+'</div>\'">'
+ : '<div class="thumb-fallback">'+esc(initial(o.brand))+'</div>';
+
+ var promoBlock = hasPromo
+ ? '<div class="promo"><span class="promo-code" id="code-'+idx+'">'+esc(o.promocode)+
+ '</span><button class="copy" onclick="copyCode('+idx+',this)">Копировать</button></div>'
+ : '<div class="promo"><span class="promo-none">Без промокода — скидка по ссылке</span></div>';
+
+ var meta = '';
+ if(o.discount && o.discount.trim()) meta += '<span class="discount">'+esc(o.discount)+'</span>';
+ if(o.dateEndText) meta += '<span class="date">до '+esc(o.dateEndText)+'</span>';
+
+ return '<div class="card">'+
+ '<div class="card-top">'+img+
+ '<div><div class="brand">'+esc(o.brand||"Предложение")+'</div>'+
+ '<div class="title">'+esc(o.title||"")+'</div></div>'+
+ '</div>'+
+ (meta?'<div class="meta">'+meta+'</div>':'')+
+ promoBlock+
+ (o.link?'<a class="go" href="'+esc(o.link)+'" target="_blank" rel="noopener">Перейти к предложению →</a>':'')+
+ '</div>';
+}
+
+function copyCode(idx, btn){
+ var el = document.getElementById('code-'+idx);
+ if(!el) return;
+ var text = el.textContent;
+ navigator.clipboard.writeText(text).then(function(){
+ btn.textContent = "Скопировано ✓";
+ btn.classList.add("done");
+ setTimeout(function(){ btn.textContent="Копировать"; btn.classList.remove("done"); }, 1600);
+ });
+}
+
+function render(){
+ var q = searchText.toLowerCase();
+ var list = allOffers.filter(function(o){
+ if(filterMode==="promo" && !(o.promocode && o.promocode.trim())) return false;
+ if(!q) return true;
+ return ((o.brand||"")+" "+(o.title||"")+" "+(o.promocode||"")).toLowerCase().indexOf(q)!==-1;
+ });
+
+ var c = document.getElementById("content");
+ if(list.length===0){
+ c.innerHTML = '<div class="empty">Ничего не найдено. Попробуй другой запрос.</div>';
+ return;
+ }
+ c.innerHTML = '<div class="grid">'+list.map(function(o,i){return cardHtml(o,i);}).join("")+'</div>';
+}
+
+function load(){
+ fetch(DATA_URL + "?t=" + Date.now())
+ .then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+ .then(function(data){
+ allOffers = data.offers || [];
+ var upd = data.updated ? new Date(data.updated) : null;
+ var when = upd ? upd.toLocaleDateString("ru-RU",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"}) : "";
+ document.getElementById("sub").innerHTML =
+ "Актуальные предложения партнёров — <b>"+allOffers.length+"</b> шт."+(when?" · обновлено "+esc(when):"");
+ render();
+ })
+ .catch(function(e){
+ document.getElementById("content").innerHTML =
+ '<div class="empty">Не удалось загрузить данные.<br>'+esc(e.message)+
+ '<br><br>Проверь, что файл offers-all.json опубликован и ссылка в коде верная.</div>';
+ document.getElementById("sub").textContent = "Ошибка загрузки";
+ });
+}
+
+document.getElementById("search").addEventListener("input", function(e){
+ searchText = e.target.value; render();
+});
+["all","promo"].forEach(function(f){
+ document.getElementById("f-"+f).addEventListener("click", function(){
+ filterMode = f;
+ document.getElementById("f-all").classList.toggle("on", f==="all");
+ document.getElementById("f-promo").classList.toggle("on", f==="promo");
+ render();
+ });
+});
+
+load();
+</script>
+</body>
+</html>
