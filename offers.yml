@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24T14:35:09+03:00">
+<yml_catalog date="2026-06-27T06:21:49+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
@@ -94,32 +94,6 @@
         <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
       </offer>
-      <offer id="offer_adm_929636" group_id="grp_aliexpress_ru_cis" available="true">
-        <name>Акция магазина POCO Flagship Store. Скидка 1400 руб. без порога по сумме заказа</name>
-        <url>https://ali.click/pisce1k?gc=4mkdkq83gy3d2015cbd4b6d1781017&amp;erid=2bL9aMPo2e49hMef4rrTkac1u1&amp;i=3</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/2/21/25179-4a8264133bfb54e6.png</picture>
-        <vendor>AliExpress RU&amp;CIS</vendor>
-        <param name="promocode">20OFF618</param>
-        <param name="discount">1 400 ₽</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="dateEndText">30 июня</param>
-        <param name="brand">AliExpress RU&amp;CIS</param>
-        <param name="groupId">grp_aliexpress_ru_cis</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_929635" group_id="grp_aliexpress_ru_cis" available="true">
-        <name>Акция магазина POCO Flagship Store. Скидка 700 руб. без порога по сумме заказа</name>
-        <url>https://ali.click/t7qce1i?gc=n5c1zuyiyf3d2015cbd4b6d1781017&amp;erid=2bL9aMPo2e49hMef4rrTkac1pk&amp;i=3</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/2/21/25179-4a8264133bfb54e6.png</picture>
-        <vendor>AliExpress RU&amp;CIS</vendor>
-        <param name="promocode">618POCO10OFF</param>
-        <param name="discount">700 ₽</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="dateEndText">30 июня</param>
-        <param name="brand">AliExpress RU&amp;CIS</param>
-        <param name="groupId">grp_aliexpress_ru_cis</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="offer_adm_919867" group_id="grp_airo" available="true">
         <name>Скидка 30% на химчистку мебели и ковров</name>
         <url>https://xpuvo.com/g/f9nzg57qiz3d2015cbd4a3b811983e/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymqETcQ</url>
@@ -170,19 +144,6 @@
         <param name="dateEndText">31 июля</param>
         <param name="brand">afisha.yandex.ru</param>
         <param name="groupId">grp_afisha_yandex_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_897798" group_id="grp_cozy_home" available="true">
-        <name>30% от 5000</name>
-        <url>https://ficca2021.com/g/k7pgzv4jt63d2015cbd474bec426fb/?i=3&amp;erid=2bL9aMPo2e49hMef4rqyKTHbY4</url>
-        <picture>https://cdn.admitad.com/campaign/images/2022/7/11/26239-9ee15859e5e68126.jpg</picture>
-        <vendor>COZY HOME</vendor>
-        <param name="promocode">admitad30</param>
-        <param name="discount">30%</param>
-        <param name="dateEnd">2026-06-30T23:59:00</param>
-        <param name="dateEndText">30 июня</param>
-        <param name="brand">COZY HOME</param>
-        <param name="groupId">grp_cozy_home</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_876164" group_id="grp_superstep_ru" available="true">
