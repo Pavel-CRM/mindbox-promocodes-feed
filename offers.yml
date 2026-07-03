@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-30T06:21:58+03:00">
+<yml_catalog date="2026-07-03T06:22:24+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
+      <offer id="offer_adm_932873" group_id="grp_internet_magazin_alenka" available="true">
+        <name>Скидка 30% на товары без скидок</name>
+        <url>https://dhwnh.com/g/361rhvps9j3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTs5DE9p</url>
+        <picture>https://cdn.admitad.com/campaign/images/2020/10/21/17345-e9f9e2c11f2b8bac.png</picture>
+        <vendor>Интернет-магазин Алёнка</vendor>
+        <param name="promocode">admitad</param>
+        <param name="discount">30%</param>
+        <param name="dateEnd">2026-12-31T23:59:00</param>
+        <param name="dateEndText">31 декабря</param>
+        <param name="brand">Интернет-магазин Алёнка</param>
+        <param name="groupId">grp_internet_magazin_alenka</param>
+        <param name="source">admitad</param>
+      </offer>
+      <offer id="offer_adm_932696" group_id="grp_online_globus_ru" available="true">
+        <name>12% от 4500руб на первый заказ Владимир</name>
+        <url>https://dorinebeaumont.com/g/8o9zqh2qq63d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTs5BYSb</url>
+        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
+        <vendor>online.globus.ru</vendor>
+        <param name="promocode">avvlad12</param>
+        <param name="discount">12%</param>
+        <param name="dateEnd">2026-12-28T23:59:00</param>
+        <param name="dateEndText">28 декабря</param>
+        <param name="brand">online.globus.ru</param>
+        <param name="groupId">grp_online_globus_ru</param>
+        <param name="source">admitad</param>
+      </offer>
       <offer id="offer_adm_931771" group_id="grp_love_republic" available="true">
         <name>15% на раздел эксклюзивно онлайн</name>
         <url>https://rthsu.com/g/14ce3m9h7t3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTrzjayd</url>
