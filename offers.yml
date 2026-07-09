@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-06T06:21:45+03:00">
+<yml_catalog date="2026-07-09T06:22:22+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
+      <offer id="offer_adm_934392" group_id="grp_love_republic" available="true">
+        <name>10% на новую коллекцию</name>
+        <url>https://rthsu.com/g/bd5nlqu89b3d2015cbd44b49bf85d3/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTsB8qC1</url>
+        <picture>https://cdn.admitad.com/campaign/images/2020/10/14/14725-7b282fbbf3db5015.png</picture>
+        <vendor>Love Republic</vendor>
+        <param name="promocode">admitadlr</param>
+        <param name="discount">10%</param>
+        <param name="dateEnd">2026-07-19T23:59:00</param>
+        <param name="dateEndText">19 июля</param>
+        <param name="brand">Love Republic</param>
+        <param name="groupId">grp_love_republic</param>
+        <param name="source">admitad</param>
+      </offer>
       <offer id="offer_adm_932873" group_id="grp_internet_magazin_alenka" available="true">
         <name>Скидка 30% на товары без скидок</name>
         <url>https://dhwnh.com/g/361rhvps9j3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTs5DE9p</url>
