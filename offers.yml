@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-24T06:21:48+03:00">
+<yml_catalog date="2026-07-27T06:21:52+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
-      <offer id="offer_adm_935963" group_id="grp_aliexpress_ru_cis" available="true">
-        <name>Скидка в 400 рублей при покупках от 5 000 рублей!</name>
-        <url>https://ali.click/voznh1h?gc=iq6lw0no823d2015cbd4b6d1781017&amp;erid=2bL9aMPo2e49hMef4rrTyciNxw&amp;i=3</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/2/21/25179-4a8264133bfb54e6.png</picture>
-        <vendor>AliExpress RU&amp;CIS</vendor>
-        <param name="promocode">ALISUN26</param>
-        <param name="discount">400 ₽</param>
-        <param name="dateEnd">2026-07-31T23:59:00</param>
-        <param name="dateEndText">31 июля</param>
-        <param name="brand">AliExpress RU&amp;CIS</param>
-        <param name="groupId">grp_aliexpress_ru_cis</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="offer_adm_935536" group_id="grp_online_globus_ru" available="true">
         <name>Скидка 1000р от 8970, кроме товаров исключений и акционных товаров</name>
         <url>https://dorinebeaumont.com/g/ib22imtfzh3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTyYFQfz</url>
@@ -144,45 +131,6 @@
         <param name="dateEndText">15 сентября</param>
         <param name="brand">online.globus.ru</param>
         <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_916747" group_id="grp_afisha_yandex_ru" available="true">
-        <name>Скидка 300 рублей для покупок от 3000 рублей</name>
-        <url>https://bednari.com/g/aw5gia5ujt3d2015cbd4342c94faa7/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymgMYSV</url>
-        <picture>https://cdn.admitad.com/campaign/images/2020/10/1/20005-bc5a3f1a9c193604.png</picture>
-        <vendor>afisha.yandex.ru</vendor>
-        <param name="promocode">PROMO0826</param>
-        <param name="discount"></param>
-        <param name="dateEnd">2026-07-31T23:59:00</param>
-        <param name="dateEndText">31 июля</param>
-        <param name="brand">afisha.yandex.ru</param>
-        <param name="groupId">grp_afisha_yandex_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_876164" group_id="grp_superstep_ru" available="true">
-        <name>Скидка 10% на новую коллекцию</name>
-        <url>https://sgkaa.com/g/mfcgm9kwjh3d2015cbd4a814938f71/?i=31&amp;erid=2bL9aMPo2e49hMef4rqUtcBKi5</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">Super10Admitad16</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd">2026-07-31T23:59:59</param>
-        <param name="dateEndText">31 июля</param>
-        <param name="brand">SuperStep RU</param>
-        <param name="groupId">grp_superstep_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_847868" group_id="grp_superstep_ru" available="true">
-        <name>Скидка 10% на новую коллекцию!</name>
-        <url>https://sgkaa.com/g/5hqzn6pn2v3d2015cbd4a814938f71/?i=3&amp;erid=2bL9aMPo2e49hMef4rqUDDcky6</url>
-        <picture>https://cdn.admitad.com/campaign/images/2023/3/17/13978-9c11e9640ec21a7b.png</picture>
-        <vendor>SuperStep RU</vendor>
-        <param name="promocode">superadmitad</param>
-        <param name="discount">10%</param>
-        <param name="dateEnd">2026-07-31T23:59:00</param>
-        <param name="dateEndText">31 июля</param>
-        <param name="brand">SuperStep RU</param>
-        <param name="groupId">grp_superstep_ru</param>
         <param name="source">admitad</param>
       </offer>
     </offers>
