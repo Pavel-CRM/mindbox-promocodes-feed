@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-09T06:21:47+03:00">
+<yml_catalog date="2026-08-12T06:22:33+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
+      <offer id="offer_adm_937874" group_id="grp_online_globus_ru" available="true">
+        <name>300р от 3900р на раздел Школьник Соберись. Скидка суммируется</name>
+        <url>https://dorinebeaumont.com/g/icc0q0aa8u3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrU65nEfa</url>
+        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
+        <vendor>online.globus.ru</vendor>
+        <param name="promocode">adschl</param>
+        <param name="discount">300 ₽</param>
+        <param name="dateEnd">2026-09-12T23:59:00</param>
+        <param name="dateEndText">12 сентября</param>
+        <param name="brand">online.globus.ru</param>
+        <param name="groupId">grp_online_globus_ru</param>
+        <param name="source">admitad</param>
+      </offer>
       <offer id="offer_adm_935536" group_id="grp_online_globus_ru" available="true">
         <name>Скидка 1000р от 8970, кроме товаров исключений и акционных товаров</name>
         <url>https://dorinebeaumont.com/g/ib22imtfzh3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTyYFQfz</url>
