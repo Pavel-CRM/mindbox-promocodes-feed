@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-18T06:22:36+03:00">
+<yml_catalog date="2026-08-21T06:22:42+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
-      <offer id="offer_adm_937874" group_id="grp_online_globus_ru" available="true">
-        <name>300р от 3900р на раздел Школьник Соберись. Скидка суммируется</name>
-        <url>https://dorinebeaumont.com/g/icc0q0aa8u3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrU65nEfa</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">adschl</param>
-        <param name="discount">300 ₽</param>
-        <param name="dateEnd">2026-09-12T23:59:00</param>
-        <param name="dateEndText">12 сентября</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_935536" group_id="grp_online_globus_ru" available="true">
-        <name>Скидка 1000р от 8970, кроме товаров исключений и акционных товаров</name>
-        <url>https://dorinebeaumont.com/g/ib22imtfzh3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTyYFQfz</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">adm189next</param>
-        <param name="discount">1 000 ₽</param>
-        <param name="dateEnd">2026-12-28T23:59:59</param>
-        <param name="dateEndText">28 декабря</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
       <offer id="offer_adm_932873" group_id="grp_internet_magazin_alenka" available="true">
         <name>Скидка 30% на товары без скидок</name>
         <url>https://dhwnh.com/g/361rhvps9j3d2015cbd445305aaa81/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTs5DE9p</url>
@@ -40,19 +14,6 @@
         <param name="dateEndText">31 декабря</param>
         <param name="brand">Интернет-магазин Алёнка</param>
         <param name="groupId">grp_internet_magazin_alenka</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_932696" group_id="grp_online_globus_ru" available="true">
-        <name>12% от 4500руб на первый заказ Владимир</name>
-        <url>https://dorinebeaumont.com/g/8o9zqh2qq63d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTs5BYSb</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">avvlad12</param>
-        <param name="discount">12%</param>
-        <param name="dateEnd">2026-12-28T23:59:00</param>
-        <param name="dateEndText">28 декабря</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_931771" group_id="grp_love_republic" available="true">
@@ -92,58 +53,6 @@
         <param name="dateEndText">31 августа</param>
         <param name="brand">Love Republic</param>
         <param name="groupId">grp_love_republic</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_931056" group_id="grp_online_globus_ru" available="true">
-        <name>Бесплатная доставка от 3500 руб</name>
-        <url>https://dorinebeaumont.com/g/5umhcfby5q3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkf4ei3</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">admtula</param>
-        <param name="discount">3 500 ₽</param>
-        <param name="dateEnd">2026-09-15T23:59:00</param>
-        <param name="dateEndText">15 сентября</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_930007" group_id="grp_online_globus_ru" available="true">
-        <name>20% от 8790р на Хиты продаж</name>
-        <url>https://dorinebeaumont.com/g/kr0hrvfxz93d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkae2ZU</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">adm2026next</param>
-        <param name="discount">20%</param>
-        <param name="dateEnd">2026-09-15T23:59:59</param>
-        <param name="dateEndText">15 сентября</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_929964" group_id="grp_online_globus_ru" available="true">
-        <name>Скидка 8% на 1 заказ от 6590 руб. (кроме акц товаров, электроники и бытовой техники)</name>
-        <url>https://dorinebeaumont.com/g/2u1m2yuzb13d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkadhXy</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">adm8226next</param>
-        <param name="discount">8%</param>
-        <param name="dateEnd">2026-09-15T23:59:59</param>
-        <param name="dateEndText">15 сентября</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
-        <param name="source">admitad</param>
-      </offer>
-      <offer id="offer_adm_929921" group_id="grp_online_globus_ru" available="true">
-        <name>Admitad/12% от 5500, но не более 1000р, кроме исключений Новый клиент</name>
-        <url>https://dorinebeaumont.com/g/zkarfaoe6q3d2015cbd44ac2eebc76/?i=3&amp;erid=2bL9aMPo2e49hMef4rrTkadhEG</url>
-        <picture>https://cdn.admitad.com/campaign/images/2021/11/30/19328-9341624c1b8afe28.png</picture>
-        <vendor>online.globus.ru</vendor>
-        <param name="promocode">adm126</param>
-        <param name="discount">12%</param>
-        <param name="dateEnd">2026-09-15T23:59:59</param>
-        <param name="dateEndText">15 сентября</param>
-        <param name="brand">online.globus.ru</param>
-        <param name="groupId">grp_online_globus_ru</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_876164" group_id="grp_superstep_ru" available="true">
