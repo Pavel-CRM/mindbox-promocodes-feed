@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-03T06:21:38+03:00">
+<yml_catalog date="2026-10-06T06:22:38+03:00">
   <shop>
     <name>Mokka Offers</name>
     <offers>
@@ -14,6 +14,19 @@
         <param name="dateEndText">31 декабря</param>
         <param name="brand">Интернет-магазин Алёнка</param>
         <param name="groupId">grp_internet_magazin_alenka</param>
+        <param name="source">admitad</param>
+      </offer>
+      <offer id="offer_adm_919725" group_id="grp_sportmaster" available="true">
+        <name>Скидки до -20% на обувь для горного туризма по промокоду</name>
+        <url>https://iatjw.com/g/trcuqwvzeb3d2015cbd4b09e931874/?i=3&amp;erid=2bL9aMPo2e49hMef4rqymonVJ2</url>
+        <picture>https://cdn.admitad.com/campaign/images/2024/7/8/14647-0dd7fbe25553b712.png</picture>
+        <vendor>Спортмастер</vendor>
+        <param name="promocode">MOUNTAIN</param>
+        <param name="discount">20%</param>
+        <param name="dateEnd">2026-10-31T23:59:00</param>
+        <param name="dateEndText">31 октября</param>
+        <param name="brand">Спортмастер</param>
+        <param name="groupId">grp_sportmaster</param>
         <param name="source">admitad</param>
       </offer>
       <offer id="offer_adm_876164" group_id="grp_superstep_ru" available="true">
